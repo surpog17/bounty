@@ -1,7 +1,6 @@
 import { useQuery } from "@tanstack/react-query";
 import { BOUNTY_URL, USER_URL } from "../../../utils/constants";
 import axios from "axios";
-import { crudRequest } from "../../../utils/crudRequest";
 interface User {
   id: string;
   name: string;
