@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "915c",
+      "first_name": "Surafel",
+      "last_name": "Kifle",
+      "username": "surpog17",
+      "phone": "0928414106",
+      "email": "surafel@ienetworks.co",
+      "password": "%TGBnhy6",
+      "confirmPassword": "%TGBnhy6"
+    },
+    {
+      "id": "f16d",
+      "first_name": "john",
+      "last_name": "nice",
+      "username": "john20",
+      "phone": "0928414106",
+      "email": "john@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "9363",
+      "first_name": "Surafel",
+      "last_name": "Kifle",
+      "username": "sur178",
+      "phone": "0928414106",
+      "email": "surafelkifle178@gmail.com",
+      "password": "%TGBnhy6",
+      "confirmPassword": "%TGBnhy6"
+    },
+    {
+      "id": "6070",
+      "first_name": "Surafel",
+      "last_name": "Kifle",
+      "username": "sur10",
+      "phone": "0928414106",
+      "email": "surafelkifle10@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    }
+  ]
+}
